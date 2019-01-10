@@ -1,0 +1,26 @@
+	.tp5 {
+		margin-top: 5px;
+	}
+	.tp10 {
+		margin-top: 10px;
+	}
+	.tp20 {
+		margin-top: 20px;
+	}
+	.bt5 {
+		margin-bottom: 5px;
+	}
+	.bt10 {
+		margin-bottom: 10px;
+	}
+	.bt20 {
+		margin-bottom: 20px;
+	}
+	.lrzero {
+		padding-left: 0px;
+		padding-right: 0px;
+	}
+	.tdpad {
+		padding-top: 30px;
+		padding-bottom: 30px;
+	}
